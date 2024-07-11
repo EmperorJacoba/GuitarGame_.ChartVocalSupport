@@ -10,7 +10,7 @@ Moonscraper is the Rock God's gift to man, but it lacks support for the fourth c
 I want to change both these things, and add vocals support in .chart files for the new era of PC clones of GH/RB. I have rough drafts for how I think this could work. 
 
 On the backend (the .chart format itself), I think it would be rather easy to add vocal support with the current infrastructure .chart files have combined with .mid documentation and current vocal standards. 
-In moonscraper, however, a completely new UI would have to be built to edit the vocals in the .chart file. I have two goals: expand the .chart file to support vocals, and expand Moonscraper to support charting vocals on .chart files (I am not even thinking about converting between .chart and .mid files)
+In moonscraper, however, a completely new UI would have to be built to edit the vocals in the .chart file. I have two goals: expand the .chart file to support vocals, and expand Moonscraper to support charting vocals on .chart files (I am not even thinking about converting between .chart and .mid files right now, that is an issue for later)
 
 I do not currently know how to code in C#, nor use Unity. I am in the process of learning them, so it will be a while before I actually start creating this concept, if ever. I am currently reading up on the nitty-gritty of the existing infrastructure in .chart and .mid files additionally, and I will look over Moonscraper's code when I get through some C# courses.
 
