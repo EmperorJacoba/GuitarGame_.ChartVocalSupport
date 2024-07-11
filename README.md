@@ -5,7 +5,7 @@ I believe we have entered a new era of Guitar Hero/Rock Band/Clone Hero charting
 With the recent release of rhythmverse and the release of YARG, vocal support has become more common in our community. Rhythmverse supports vocal charts in their files outside of RB3 packages, and YARG has native vocal support.
 
 But Moonscraper & the .chart format have not updated to match. If a charter wants to add vocal support to their charts, they have to use Reaper or EditorOnFire, which are both abysmal and extremely outdated for charting. 
-Moonscraper is the Rock God's gift to man, but it lacks support for the fourth core difficulty in Rock Band that is now starting to become more prevalent in the PC Guitar Hero clone space. And the superior (in my opinion) .chart file has no support for vocals at this moment. 
+Moonscraper is the Rock God's gift to man, but it lacks support for the fourth core gamemode in Rock Band that is now starting to become more prevalent in the PC Guitar Hero clone space. And the superior (in my opinion) .chart file has no support for vocals at this moment. 
 
 I want to change both these things, and add vocals support in .chart files for the new era of PC clones of GH/RB. I have rough drafts for how I think this could work. 
 
