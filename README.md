@@ -1,5 +1,5 @@
 # Notes about this fork
-To whoever finds this fork (please be no one, I am extremely shy and unconfident about this right now),
+To whoever finds this fork (please be no one, I am extremely unconfident about this right now),
 I believe we have entered a new era of Guitar Hero/Rock Band/Clone Hero charting.
 
 With the recent release of rhythmverse and the release of YARG, vocal support has become more common in our community. Rhythmverse supports vocal charts in their files outside of RB3 packages, and YARG has native vocal support.
