@@ -1,4 +1,4 @@
-# Notes about this fork (.vchart, "Vocal Chart")
+# Notes about this fork (currently planned to be .vchart, "Vocal Chart")
 To whoever finds this fork (please be no one, I am extremely unconfident about this right now),
 I believe we have entered a new era of Guitar Hero/Rock Band/Clone Hero charting.
 
